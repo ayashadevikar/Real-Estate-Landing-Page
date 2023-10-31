@@ -1,6 +1,6 @@
 ## Real Estate Landing Page
 
-[Live Link](https://real-estate-project4.netlify.app/)
+[Live Link](https://real-estate-landing-page-ten.vercel.app/)
 
 ## my output
 
